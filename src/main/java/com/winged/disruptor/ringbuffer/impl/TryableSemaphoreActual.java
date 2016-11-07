@@ -6,7 +6,7 @@ import com.winged.disruptor.ringbuffer.TryableSemaphore;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * Created by lixiuhai on 2016/9/1.
+ * Created by wingedFish on 2016/9/1.
  */
 public class TryableSemaphoreActual implements TryableSemaphore {
     protected final int numberOfPermits;

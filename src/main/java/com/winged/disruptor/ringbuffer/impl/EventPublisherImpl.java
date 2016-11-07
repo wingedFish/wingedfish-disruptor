@@ -6,7 +6,7 @@ import com.winged.disruptor.ringbuffer.EventPublisher;
 import com.winged.disruptor.ringbuffer.RingBufferFactory;
 
 /**
- * Created by lixiuhai on 2016/9/1.
+ * Created by wingedFish on 2016/9/1.
  */
 public class EventPublisherImpl implements EventPublisher {
 

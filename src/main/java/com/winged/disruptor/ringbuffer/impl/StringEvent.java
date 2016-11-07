@@ -1,7 +1,7 @@
 package com.winged.disruptor.ringbuffer.impl;
 
 /**
- * Created by lixiuhai on 2016/9/1.
+ * Created by wingedFish on 2016/9/1.
  */
 public class StringEvent {
     private String value ;

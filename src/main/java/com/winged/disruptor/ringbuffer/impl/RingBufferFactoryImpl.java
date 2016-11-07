@@ -16,7 +16,7 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ThreadFactory;
 
 /**
- * Created by lixiuhai on 2016/9/1.
+ * Created by wingedFish on 2016/9/1.
  */
 public class RingBufferFactoryImpl implements RingBufferFactory, DisposableBean {
     private final static Logger log = LogManager.getLogger(RingBufferFactoryImpl.class);

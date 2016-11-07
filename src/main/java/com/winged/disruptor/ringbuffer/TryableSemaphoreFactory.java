@@ -6,7 +6,7 @@ import com.winged.disruptor.ringbuffer.impl.TryableSemaphoreActual;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * Created by lixiuhai on 2016/9/1.
+ * Created by wingedFish on 2016/9/1.
  */
 public class TryableSemaphoreFactory {
     private static final ConcurrentHashMap<String, TryableSemaphore> semaphoreMap = new ConcurrentHashMap<>();
